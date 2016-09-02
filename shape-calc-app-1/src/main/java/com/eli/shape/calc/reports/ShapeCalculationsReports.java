@@ -9,6 +9,7 @@ import com.eli.calc.shape.model.CalcType;
 import com.eli.calc.shape.model.ShapeName;
 
 
+
 public class ShapeCalculationsReports {
 
 	public static synchronized String formattedResultsReportSummary(List<CalculationResult> results){
